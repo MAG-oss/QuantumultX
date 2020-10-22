@@ -35,7 +35,25 @@ if ($.isNode()) {
   cookiesArr.push($.getdata('CookieJD2'));
 }
 const starID = ["];
-const shareID = ["];
+const shareID = [
+  'af808145-6a45-4af7-bf2a-b46e4a34db9f',
+  '91eb8b6d-35c4-49ba-bd03-08365ba3154b',
+  '5967ef3d-e391-4bce-bf1d-6f58cec12c66',
+  'dace17bc-44d7-4f6a-982a-878084bbee92',
+  '54794778-7599-4164-9558-87a7e16a8fe5',
+  '3521e846-cb89-4822-b497-fb2d13ccfc4e',
+  'bf09b4cf-e0af-4b01-ab67-44140b0bcc2c',
+  'f379afc6-589c-433f-8da1-edff5549a402',
+  '00f4fbbc-3182-4029-82f8-e93526103063',
+  '5d1e728a-9c52-4b3b-96e7-b7ec33aa8546',
+  '4a4e20de-a0ea-4943-91be-925914042532',
+  '5cbf041f-ddfb-4227-81d5-c8f2bfccc4e3',
+  'ec97056e-d52e-4827-b561-4fcf85ee5669',
+  'dd7e2631-35e9-4803-86a1-e166253825e3',
+  '84634cfc-526d-4f9b-bcc3-732d12ab4b97',
+  '7b6b0c45-658e-4130-baf1-cf1e311663ed',
+  '2231b084-d926-4582-b86a-86ab2c328b0b',
+];
 const JD_API_HOST = 'https://urvsaggpt.m.jd.com/guardianstar';
 !(async () => {
   if (!cookiesArr[0]) {
