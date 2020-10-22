@@ -1,4 +1,11 @@
-
+/*
+ * @Author: lxk0301 
+ * @Date: 2020-10-21 17:04:04 
+ * @Last Modified by: lxk0301
+ * @Last Modified time: 2020-10-22 09:35:04
+ */
+/**
+ 星推官脚本 https://raw.githubusercontent.com/lxk0301/scripts/master/jd_xtg.js
  星推官活动地址：https://prodev.m.jd.com/mall/active/3gSzKSnvrrhYushciUpzHcDnkYE3/index.html
  活动时间：2020年10月21日 00:00:00-2020年11月12日 23:59:59
  京豆先到先得！！！！！！！！！！！
@@ -35,7 +42,7 @@ if ($.isNode()) {
   cookiesArr.push($.getdata('CookieJD2'));
 }
 const starID = [
-'bolangwutiaoren',
+  'bolangwutiaoren',
   'oulebyangzi',
   'meiditongliya',
   'chuangweimaobuyi',
