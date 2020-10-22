@@ -34,10 +34,8 @@ if ($.isNode()) {
   cookiesArr.push($.getdata('CookieJD'));
   cookiesArr.push($.getdata('CookieJD2'));
 }
-const starID = [
-];
-const shareID = [
-];
+const starID = ["];
+const shareID = ["];
 const JD_API_HOST = 'https://urvsaggpt.m.jd.com/guardianstar';
 !(async () => {
   if (!cookiesArr[0]) {
