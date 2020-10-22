@@ -34,7 +34,25 @@ if ($.isNode()) {
   cookiesArr.push($.getdata('CookieJD'));
   cookiesArr.push($.getdata('CookieJD2'));
 }
-const starID = ["];
+const starID = [
+'bolangwutiaoren',
+  'oulebyangzi',
+  'meiditongliya',
+  'chuangweimaobuyi',
+  'quechaozhuyilong',
+  'haierchenxiao',
+  'feilipulixian',
+  'feilipurenjialun',
+  'feilipuwangziyi',
+  'changhongsongyi',
+  'jiuyangdenglun',
+  'aokesilingengxin',
+  'haixinchengguo',
+  'fangtai',
+  'lgyangzishan',
+  'laobansongweilong',
+  'haiermaoxiaotong',
+];
 const shareID = [
   'af808145-6a45-4af7-bf2a-b46e4a34db9f',
   '91eb8b6d-35c4-49ba-bd03-08365ba3154b',
