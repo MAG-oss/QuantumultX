@@ -2,7 +2,7 @@
  * @Author: lxk0301 
  * @Date: 2020-10-21 17:04:04 
  * @Last Modified by: lxk0301
- * @Last Modified time: 2020-10-30 09:35:04
+ * @Last Modified time: 2020-10-31 00:35:04
  */
 /**
  星推官脚本 https://raw.githubusercontent.com/lxk0301/scripts/master/jd_xtg.js
@@ -59,6 +59,7 @@ const starID = [
   'lgyangzishan',
   'laobansongweilong',
   'haiermaoxiaotong',
+  "skgwangyibo"
 ];
 const shareID = [
   'af808145-6a45-4af7-bf2a-b46e4a34db9f',
